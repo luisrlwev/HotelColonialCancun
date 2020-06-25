@@ -1438,6 +1438,10 @@ a {
   border-color: #2061AF;
 }
 
+.bg-colonial{
+  background-color: #2061af;
+}
+
 *{
     scroll-behavior: smooth;
 }
@@ -1534,3 +1538,20 @@ a {
   font-size: 85px;
 }
 
+@media(max-width:768px) {
+  .image-absolute{
+    right: 0px;
+  }
+}
+
+.color-footer{
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.text-parapente{
+  color: #213b52 !important;
+}
+
+.logo-parapente{
+  width: 25px;
+}
