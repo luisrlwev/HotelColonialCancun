@@ -330,7 +330,7 @@ a {
     box-shadow: 0 0 30px -5px rgba(0, 0, 0, 0.1);
     background: #fff !important; }
     .site-navbar-wrap.scrolled .site-menu-toggle span {
-      color: #000; }
+      color: #2061AF; }
     .site-navbar-wrap.scrolled .site-logo a {
       color: #000; }
     .site-navbar-wrap.scrolled .site-navbar .site-navigation .site-menu > li > a {
@@ -409,12 +409,12 @@ a {
       position: relative;
       color: #212529; }
       .site-mobile-menu .site-nav-wrap a:hover {
-        color: #f23a2e; }
+        color: #2061AF; }
     .site-mobile-menu .site-nav-wrap li {
       position: relative;
       display: block; }
       .site-mobile-menu .site-nav-wrap li.active > a {
-        color: #f23a2e; }
+        color: #2061AF; }
     .site-mobile-menu .site-nav-wrap .arrow-collapse {
       position: absolute;
       right: 0px;
